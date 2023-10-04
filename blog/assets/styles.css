@@ -151,3 +151,6 @@ a.highlight{
     margin: 10px 0;
     cursor: pointer;
 }
+.thumb-img {
+    max-width: 300px;
+}
